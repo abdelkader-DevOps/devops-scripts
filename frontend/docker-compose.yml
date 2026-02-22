@@ -1,6 +1,6 @@
 services:
 front:
-image: gadour12/frontend:latest
+image: gadour12/front-session16
 container_name: frontend
 ports:
 - "3000:80"
